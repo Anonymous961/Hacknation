@@ -40,9 +40,9 @@ The project is further strengthened by use of Web3 Tech to create unique Hash ID
  
 
 ## Use Cases of your project
+- Can be used to find lost items easily.
 - It can be used to track packages, luggage, etc in transit, and the user can get direct updates.
 - Very useful in tracking pets, cattle, etc.
-- Can be used to find lost items easily
 - Secured by the use of Web3 Tech to further enhance security and future innovations of project.
 - A huge advantage is that it is free of cost and anyone has an alternative to the inexpensive tech products like airtags.
 
